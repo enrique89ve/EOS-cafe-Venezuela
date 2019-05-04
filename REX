@@ -31,7 +31,7 @@ rex: {
     lendStaked: 'Prestar Staked',
     savings: 'Ahorros',
 
-    rexHistory: 'Historial de Rex',
+    rexHistory: 'Historial de REX',
     lendStakedEos: 'Prestar Staked {symbol}',
     borrowCpuNet: 'Pedir prestado CPU/NET',
     rexStats: 'Estadísticas de REX',
