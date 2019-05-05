@@ -1,9 +1,9 @@
 rex: {
-    liquidLoans: 'Préstamos Líquidos',
+    liquidLoans: 'Préstamos líquidos',
     savingsLoans: 'Préstamos en Ahorros',
     rexLiquidity: 'Liquidez de REX',
     thirtyDaysOneYearInterest: '30 días/1 año de interés',
-    lendLiquid: 'Prestar tu balance de',
+    lendLiquid: 'Prestar tus fondos líquidos de',
     rexStatsCharts: 'Estadísticas y gráficos de REX',
     moveToOrFromSavings: 'Mover a o desde ahorros:',
     movingLoansToSavings: 'Al mover los préstamos en proceso o líquidos a ahorro, agregará 4 días  al temporalizador para permitir la venta de  sus préstamos. No genera recompensas adicionales.',
