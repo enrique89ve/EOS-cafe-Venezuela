@@ -48,7 +48,7 @@ rex: {
     loansProcessing: 'Préstamos en proceso',
     canUnlendOn: 'Puedes quitar el préstamo',
     noLoansBeingProcessed: 'No hay préstamos actualmente en proceso.',
-    lendStakedCpu: 'Prestar CPU y NET a REX directamente, sin esperar 3 días para unstaking.',
+    lendStakedCpu: 'Puedes prestar CPU y NET (ancho de banda) directamente a REX , sin esperar 3 días para reembolso del unstake.',
     bloksCpuMinimum: `Bloks deja un mínimo de {cpu} {symbol} para CPU y  {net} {symbol} para NET delegada a tu propia cuenta, para que no se congele.`,
     borrowCpuAndNet: 'Pedir prestado CPU y NET',
     canBorrow: 'Puede pedir prestado',
