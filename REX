@@ -6,7 +6,7 @@ rex: {
     lendLiquid: 'Prestar líquidos',
     rexStatsCharts: 'Estadísticas y gráficos de REX',
     moveToOrFromSavings: 'Mover a o desde ahorros:',
-    movingLoansToSavings: 'Al Mover los prestamos en proceso o liquidos a ahorro, agregará 4 dias  al temporalizador para permitir la venta de  sus prestamos. No genera recompensas adicionales.',
+    movingLoansToSavings: 'Al Mover los préstamos en proceso o líquidos a ahorro, agregará 4 días  al temporalizador para permitir la venta de  sus préstamos. No genera recompensas adicionales.',
     canMove: 'Puede mover:',
     staked: 'Staked',
     lendStakedResource: 'Prestar Staked {resource} {symbol}',
