@@ -12,7 +12,7 @@ rex: {
     lendStakedResource: 'Prestar Staked {resource} {symbol}',
     lendToRex: 'Prestar a REX',
     lendSymbolToRex: 'Prestar {symbol} a REX',
-    undlendSymbolToRex: 'Quitar prestamos {symbol} a REX',
+    undlendSymbolToRex: 'Quitar prestamos de {symbol} a REX',
     noStakesFound: 'No se han detectado stakeds.',
     lendStakeToRex: 'Prestar {amount} Staked {symbol}.',
     lendAllStakeToRex: 'Prestar {amount} Staked {symbol} a REX',
