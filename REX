@@ -27,7 +27,7 @@ rex: {
     lendSymbol: 'Prestar {symbol}',
     unlendSymbol: 'Quitar {symbol} prestados',
     canUnlend: 'Puede remover el prestamo',
-    canLend: 'Puede Prestar',
+    canLend: 'Puede prestar',
     lendStaked: 'Prestar Staked',
     savings: 'Ahorros',
 
