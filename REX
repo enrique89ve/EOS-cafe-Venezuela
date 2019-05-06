@@ -33,7 +33,7 @@ rex: {
 
     rexHistory: 'Historial de REX',
     lendStakedEos: 'Prestar Staked {symbol}',
-    borrowCpuNet: 'Solicitar prestamo de CPU/NET',
+    borrowCpuNet: 'Solicitar préstamo de CPU/NET',
     rexStats: 'Estadísticas de REX',
     account: 'Cuenta',
     stepsToEarn: 'Pasos para ganar con REX',
